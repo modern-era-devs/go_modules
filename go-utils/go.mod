@@ -1,4 +1,4 @@
-module github.com/modern-era-devs/go-utils
+module github.com/modern-era-devs/go_modules/go-utils
 
 go 1.19
 
